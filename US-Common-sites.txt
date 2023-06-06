@@ -1,669 +1,669 @@
-%% Credt Cards
+%% Credit Cards
 
-	American Express
-	https://www.americanexpress.com/
+American Express
+https://www.americanexpress.com/
 
-%% Goverment Places
+%% Government Places
 
-	משרד האוצר
-	http://www.mof.gov.il/
-	http://www.mof.gov.il/Style%20Library/mof/images/ozar.ico
+Ministry of Finance
+http://www.mof.gov.il/
+http://www.mof.gov.il/Style%20Library/mof/images/ozar.ico
 
-	Court Officess
-	http://justice.gov.il/
-	http://www.justice.gov.il/SiteCollectionImages/Top/top-menu-menora.png
+Court Offices
+http://justice.gov.il/
+http://www.justice.gov.il/SiteCollectionImages/Top/top-menu-menora.png
 
-	משרד התחבורה
-	https://www.gov.il/he/Departments/ministry_of_transport_and_road_safety
+Department of Transportation
+https://www.gov.il/he/Departments/ministry_of_transport_and_road_safety
 
-	Education Department
-	https://edu.gov.il/
+Education Department
+https://edu.gov.il/
 
-	פיקוד העורף
-	http://www.oref.org.il/
+HFC
+http://www.oref.org.il/
 
-	ביטוח לאומי
-	https://www.btl.gov.il/
-	https://www.btl.gov.il/SiteCollectionImages/favicon.ico
+Social Security
+https://www.btl.gov.il/
+https://www.btl.gov.il/SiteCollectionImages/favicon.ico
 
-	משרד הרווחה
-	http://www.molsa.gov.il/
-	http://www.molsa.gov.il/_layouts/MisradHarevacha/Images/favicon.ico
+Ministry of Welfare
+http://www.molsa.gov.il/
+http://www.molsa.gov.il/_layouts/MisradHarevacha/Images/favicon.ico
 
-	המשרד להגנת הסביבה
-	http://www.sviva.gov.il/
-	http://www.sviva.gov.il/Style%20Library/Images/env/SvivaFavicon.ico
+Ministry of the Environment
+http://www.sviva.gov.il/
+http://www.sviva.gov.il/Style%20Library/Images/env/SvivaFavicon.ico
 
-	משרד הפנים
-	http://www.moin.gov.il/
+Ministry of Interior
+http://www.moin.gov.il/
 
-	משרד הבינוי והשיכון
-	http://www.moch.gov.il/
-	http://www.moch.gov.il/_catalogs/masterpage/favicon.ico
+Ministry of Construction and Housing
+http://www.moch.gov.il/
+http://www.moch.gov.il/_catalogs/masterpage/favicon.ico
 
-	משרד הבטחון
-	http://www.mod.gov.il/
+Ministry of Defence
+http://www.mod.gov.il/
 
-	משרד החוץ
-	http://mfa.gov.il/
+Ministry of Foreign Affairs
+http://mfa.gov.il/
 
-	משרד העליה והקליטה
-	http://www.moia.gov.il/
+Ministry of Immigration and Absorption
+http://www.moia.gov.il/
 
-	משרד הכלכלה והתעשיה
-	http://www.economy.gov.il/
+Ministry of Economy and Industry
+http://www.economy.gov.il/
 
-	חברת החשמל לישראל
-	http://www.iec.co.il/
-	https://www.iec.co.il/Style%20Library/Iec/Images/favicon.ico
+Israel Electric Corporation
+http://www.iec.co.il/
+https://www.iec.co.il/Style%20Library/Iec/Images/favicon.ico
 
-	משרד הבריאות
-	http://www.health.gov.il/
+Ministry of Health
+http://www.health.gov.il/
 
-	רשות המיסים
-	https://taxes.gov.il/
+Taxes Authority
+https://taxes.gov.il/
 
 %% Banks
 
-	בנק אגוד
-	http://www.unionbank.co.il
+Union Bank
+http://www.unionbank.co.il
 
-	בנק דיסקונט
-	https://www.discountbank.co.il/
+Discount Bank
+https://www.discountbank.co.il/
 
-	בנק הדואר
-	https://www.bankhadoar.co.il/
+Postal bank
+https://www.bankhadoar.co.il/
 
-	בנק הפועלים
-	https://www.bankhapoalim.co.il/
+Bank Hapoalim
+https://www.bankhapoalim.co.il/
 
-	בנק יהב
-	https://www.yahav.co.il/
+Yahav bank
+https://www.yahav.co.il/
 
-	בנק ירושלים
-	https://www.bankjerusalem.co.il/
+Bank of Jerusalem
+https://www.bankjerusalem.co.il/
 
-	בנק לאומי
-	https://www.leumi.co.il/
+National Bank
+https://www.leumi.co.il/
 
-	בנק מזרחי טפחות
-	https://www.mizrahi-tefahot.co.il/
-	https://www.mizrahi-tefahot.co.il/Style%20Library/Mizrahi/Images/favicon.jpg
+Bank Mizrahi Tefahot
+https://www.mizrahi-tefahot.co.il/
+https://www.mizrahi-tefahot.co.il/Style%20Library/Mizrahi/Images/favicon.jpg
 
-	בנק מסד
-	https://online.bankmassad.co.il
+Bank Masad
+https://online.bankmassad.co.il
 
-	בנק מרכנתיל
-	https://www.mercantile.co.il/
-	https://www.mercantile.co.il/MB/sites/mercantile.co.il/files/favicon_0.ico
+Mercantile Bank
+https://www.mercantile.co.il/
+https://www.mercantile.co.il/MB/sites/mercantile.co.il/files/favicon_0.ico
 
-	בנק פאגי
-	https://online.pagi.co.il/
+Paggy bank
+https://online.pagi.co.il/
 
-	הבנק הבינלאומי
-	https://online.fibi.co.il/wps/portal
+the international Bank
+https://online.fibi.co.il/wps/portal
 
-%% בתי חולים
+%% hospitals
 
-	בית חולים תל השומר
-	http://www.sheba.co.il/
-	https://www.sheba.co.il/site/images/favicomatic/favicon-32x32.png
+Tel Hashomer Hospital
+http://www.sheba.co.il/
+https://www.sheba.co.il/site/images/favicomatic/favicon-32x32.png
 
-	בית חולים איכילוב
-	http://www.tasmc.org.il/
+Ichilov hospital
+http://www.tasmc.org.il/
 
-	בית חולים מעיני הישועה
-	http://www.mymc.co.il/
+Eye of Salvation Hospital
+http://www.mymc.co.il/
 
-	בית חולים אסף הרופא
-	http://www.assafh.org/
-	https://www.google.com/s2/favicons?domain=shamir-friends.forms-wizard.co.il
+Asaf Harofeh Hospital
+http://www.assafh.org/
+https://www.google.com/s2/favicons?domain=shamir-friends.forms-wizard.co.il
 
-	בית חולים רמב"ם
-	http://www.rambam.org.il/
+Rambam Hospital
+http://www.rambam.org.il/
 
-	בית חולים וולפסון
-	http://www.wolfson.org.il/
+Wolfson Hospital
+http://www.wolfson.org.il/
 
-	בית חולים הדסה
-	http://www.hadassah.org.il/
+Hadassah Hospital
+http://www.hadassah.org.il/
 
-	בית חולים שערי צדק
-	https://www.szmc.org.il/
+Shaare Zedek Hospital
+https://www.szmc.org.il/
 
-%% דואר אלקטרוני
+%% E-mail
 
-	ג'ימייל
-	https://mail.google.com/
-	https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
+Gmail
+https://mail.google.com/
+https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
 
-	אוטלוק - הוטמייל
-	https://www.outlook.com/
+Outlook - Hotmail
+https://www.outlook.com/
 
-	יאהו
-	https://mail.yahoo.com/
+Yahoo!
+https://mail.yahoo.com/
 
-%% דואר ושליחויות
+%% mail and errands
 
-	דואר ישראל
-	http://www.israelpost.co.il/
+Israel Post
+http://www.israelpost.co.il/
 
-	UPS
-	https://www.ups.com/
+UPS
+https://www.ups.com/
 
-	DHL
-	http://www.dhl.com/
+DHL
+http://www.dhl.com/
 
-	צ'יטה
-	http://www.chitadelivery.co.il/
+cheetah
+http://www.chitadelivery.co.il/
 
-	EMS
-	http://www.ems.post/
+EMS
+http://www.ems.post/
 
-%% הורדות
+%% downloads
 
-	תוכנות להורדה
-	http://softwares.center/
+software for download
+http://softwares.center/
 
-%% חדשות
-	 
-	JDN
-	http://www.jdn.co.il/
+%% news
 
-	לדעת
-	http://ladaat.co/
+JDN
+http://www.jdn.co.il/
 
-	רדיו קול חי
-	http://www.93fm.co.il/
+know
+http://ladaat.co/
 
-	כל רגע
-	http://kore.co.il/
+live sound radio
+http://www.93fm.co.il/
 
-	המודיע (באנגלית)
-	http://hamodia.com/
+any minute
+http://kore.co.il/
 
-%% וידאו
+the informant (in English)
+http://hamodia.com/
 
-	וידאו טוב
-	http://video-tov.ml/
+%% video
 
-%% יהדות
+good video
+http://video-tov.ml/
 
-	מצלמות הכותל
-	http://kotel-cams.ml/
+%% Judaism
 
-	הקרן למורשת הכותל המערבי
-	http://www.thekotel.org/kotel/kotel_cameras/
+The Wall cameras
+http://kotel-cams.ml/
 
-	זמני היום בהלכה בכל מקום בעולם
-	https://www.myzmanim.com/
-	
-	תורת יוסף - עלונים וגיליונות לפרשת השבוע ולחגי ישראל
-	http://toratyosef.co.il/
+The Western Wall Heritage Foundation
+http://www.thekotel.org/kotel/kotel_cameras/
 
-%% כלכלה
+Today's times in Halacha everywhere in the world
+https://www.myzmanim.com/
 
-	בורסת ישראל
-	http://www.tase.co.il/Heb/Pages/Homepage.aspx
+Torat Yosef - leaflets and sheets for the weekly portion and the holidays of Israel
+http://toratyosef.co.il/
 
-	שערי מט"ח
-	http://www.boi.org.il/he/Markets/ExchangeRates/Pages/Default.aspx
+%% Economy
 
-	חדשות כלכלה
-	https://www.sponser.co.il/
+The Israel Stock Exchange
+http://www.tase.co.il/Heb/Pages/Homepage.aspx
 
-	מדדי מניות וסקטורים בעולם
-	https://il.investing.com/indices/%D7%A9%D7%A2%D7%A8%D7%99-%D7%9E%D7%93%D7%93%D7%99%D7%9D-%D7%A2%D7%95%D7%9C%D7%9E%D7%99%D7%99%D7%9D
+Foreign exchange rates
+http://www.boi.org.il/he/Markets/ExchangeRates/Pages/Default.aspx
 
-%% לוחות
+Economic news
+https://www.sponsor.co.il/
 
-	יד 2
-	https://www.yad2.co.il/
+Stock indices and sectors in the world
+https://il.investing.com/indices/%D7%A9%D7%A2%D7%A8%D7%99-%D7%9E%D7%93%D7%93%D7%99%D7%9D- %D7%A2%D7%95%D7%9C%D7%9E%D7%99%D7%99%D7%9D
 
-	אגורה
-	https://www.agora.co.il/
+%% boards
 
-	הומלס
-	https://www.homeless.co.il/
+Second hand
+https://www.yad2.co.il/
 
-	dira4me
-	http://dira4me.co.il/
-	http://dira4me.co.il/wp-content/themes/bait/assets/images/logo.gif
+penny
+https://www.agora.co.il/
 
-	דרושות
-	http://www.drushot.co.il/
+Homeless
+https://www.homeless.co.il/
 
-	מדלן
-	https://www.madlan.co.il/
+dira4me
+http://dira4me.co.il/
+http://dira4me.co.il/wp-content/themes/bait/assets/images/logo.gif
 
-	גלאט 2
-	https://www.glat2.co.il/
-	
-	מניבים
-	https://menivim.net/
+needed
+http://www.drushot.co.il/
 
-%% לימודים
-	
-	מתמטיקה - M-math
-	https://www.m-math.co.il/
-	
-	תיכנות - מאגר מקורות למידה
-	https://koshercode.netlify.app/
+Madeleine
+https://www.madlan.co.il/
 
-%% מוסיקה
+Galat 2
+https://www.glat2.co.il/
 
-	ג'ואיש מיוזיק FM
-	https://jewishmusic.fm/
+are yielding
+https://menivim.net/
 
-	טוקר FM
-	https://www.toker.fm/
+%% Studies
 
-	גאולה FM
-	https://www.geula.fm/
+Mathematics - M-math
+https://www.m-math.co.il/
 
-	קול חי מיוזיק
-	https://kcm.fm/
+Programming - a database of learning resources
+https://koshercode.netlify.app/
 
-%% מודיעין
+%% Music
 
-	חיפוש 144
-	http://www.b144.co.il/
-	https://www.b144.co.il/favicon.ico
+Jewish Music FM
+https://jewishmusic.fm/
 
-	חיפוש הפוך
-	https://441il.com/
+Talker FM
+https://www.toker.fm/
 
-	זיהוי מספרי טלפון
-	https://www.truecaller.com/
-	https://www.truecaller.com/favicon.ico
+Redemption FM
+https://www.geula.fm/
 
-	המדריך החרדי
-	https://www.402.co.il/
+Live voice music
+https://kcm.fm/
 
-	דפי זהב
-	https://www.d.co.il/
+%% Intelligence
 
-	קשר כשר
-	http://kkasher.co.il/
+Search 144
+http://www.b144.co.il/
+https://www.b144.co.il/favicon.ico
 
-	כתובות וטלפונים בארה"ב
-	https://www.whitepages.com/
+Reverse search
+https://441il.com/
 
-%% מנועי חיפוש
+Identification of phone numbers
+https://www.truecaller.com/
+https://www.truecaller.com/favicon.ico
 
-	גוגל
-	https://www.google.com/
-	https://www.google.co.il/images/branding/product/ico/googleg_lodp.ico
-	
-	חיפוש גוגל בתוך אתר
-	https://sg.liy.ovh/
-	
-%% מכירות
+The ultra-orthodox guide
+https://www.402.co.il/
 
-	משנת יוסף
-	http://mishnatyosef.org/
+Yellow Pages
+https://www.d.co.il/
 
-	המכירה השכונתית
-	http://www.sales.org.il/
+kosher connection
+http://kkasher.co.il/
 
-%% מפות וניווט
+US addresses and phone numbers
+https://www.whitepages.com/
 
-	ווייז
-	https://www.waze.com/he/
+%% search engines
 
-	מפות גוגל
-	https://maps.google.com/
+Google
+https://www.google.com/
+https://www.google.co.il/images/branding/product/ico/googleg_lodp.ico
 
-	מפות בינג
-	http://www.bing.com/maps/
+Google search within a website
+https://sg.liy.ovh/
 
-%% עיריות
+%% Sales
 
-	עיריית ירושלים
-	http://www.jerusalem.muni.il/
+From the year of Joseph
+http://mishnatyosef.org/
 
-	עיריית בני ברק
-	http://www.bnei-brak.muni.il/
+The neighborhood sale
+http://www.sales.org.il/
 
-	עיריית בית שמש
-	http://betshemesh.muni.il/
+%% Maps and navigation
 
-	עיריית תל אביב
-	http://www.tel-aviv.gov.il
+Wise
+https://www.waze.com/he/
 
-	עיריית מודיעין עילית
-	http://www.modil.org.il/
+Google Maps
+https://maps.google.com/
 
-	עיריית ביתר עילית
-	http://www.betar-illit.muni.il/
+Bing Maps
+http://www.bing.com/maps/
 
-	עיריית אלעד
-	http://www.elad.muni.il/
+%% Municipalities
 
-	עיריית אשדוד
-	http://www.ashdod.muni.il/
+Jerusalem city council
+http://www.jerusalem.muni.il/
 
-	עיריית אופקים
-	http://www.ofaqim.muni.il/
+Bnei Brak Municipality
+http://www.bnei-brak.muni.il/
 
-	עיריית פתח תקוה
-	http://www.petah-tikva.muni.il/Pages/default.aspx
+Beit Shemesh Municipality
+http://betshemesh.muni.il/
 
-%% עמותות
+Tel Aviv Municipality
+http://www.tel-aviv.gov.il
 
-	בוני עולם
-	http://www.boneiolam.co.il/
+Municipality of Modi'in Illit
+http://www.modil.org.il/
 
-	עזר מציון
-	http://www.ami.org.il/
+Beitar Illit municipality
+http://www.betar-illit.muni.il/
 
-	יד שרה
-	https://yad-sarah.net/
-	https://www.google.com/s2/favicons?domain=https://en.yad-sarah.net/
+Elad municipality
+http://www.elad.muni.il/
 
-	אאוטנט
-        http://out-net.net/
+Ashdod Municipality
+http://www.ashdod.muni.il/
 
-%% פורומים חרדיים
+Ofakim Municipality
+http://www.ofaqim.muni.il/
 
-	פורום נטפרי
-	http://forum.netfree.link/
- 	
-	פרוג
-	http://www.prog.co.il/
+Petah Tikva Municipality
+http://www.petah-tikva.muni.il/Pages/default.aspx
 
-	תחומים
-	http://tchumim.com/
+%% Associations
 
-	מקצועות
-	http://xn--9dbazrsfz.com/
+world builders
+http://www.boneiolam.co.il/
 
-	פורום נתיב
-	http://forum.enativ.com/
+Ezer Machion
+http://www.ami.org.il/
 
-	אידישע וועלט
-	http://www.ivelt.com/forum/index.php
+Yad Sarah
+https://yad-sarah.net/
+https://www.google.com/s2/favicons?domain=https://en.yad-sarah.net/
 
-	מתמחים.טופ
-	https://mitmachim.top/
+Aunet
+         http://out-net.net/
 
-%% קופות חולים
+%% Orthodox forums
 
-	מכבי
-	http://www.maccabi4u.co.il
+Netfri forum
+http://forum.netfree.link/
+ 
+Prog
+http://www.prog.co.il/
 
-	כללית
-	http://www.clalit.co.il/
+domains
+http://tchumim.com/
 
-	מאוחדת
-	https://www.meuhedet.co.il
+Professions
+http://xn--9dbazrsfz.com/
 
-	לאומית
-	http://www.leumit.co.il/
+Nativ forum
+http://forum.enativ.com/
 
-%% קופות צדקה
+Yiddish World
+http://www.ivelt.com/forum/index.php
 
-	קופת העיר
-	http://www.kupat.org.il/
+Interns. Top
+https://mitmachim.top/
 
-	ועד הרבנים
-	https://www.vaadharabanim.co.il/
+%% health funds
 
-	נדרים פלוס
-	https://www.matara.pro/nedarimplus/
+Maccabi
+http://www.maccabi4u.co.il
 
-	קהילות
-	https://kehilot.info/
+general
+http://www.clalit.co.il/
 
-%% קניות ומכירות
+united
+https://www.meuhedet.co.il
 
-	זאפ – השוואת מחירים
-	http://www.zap.co.il/
+National
+http://www.leumit.co.il/
 
-	איביי
-	https://www.ebay.com/
+%% charity funds
 
-	אמזון
-	http://www.amazon.com/
+City treasury
+http://www.kupat.org.il/
 
-	נקסט
-	http://il.nextdirect.com/iw/
+and the rabbinical council
+https://www.vaadharabanim.co.il/
 
-	עלי אקספרס - אנגלית
-	http://www.aliexpress.com/
+Vows plus
+https://www.matara.pro/nedarimplus/
 
-	עלי אקספרס - עברית
-	http://he.aliexpress.com/
-	
-	מועדפים -אתרי מכירות חרדיים
-	https://moadafim.co.il/
+communities
+https://kehilot.info/
 
-%% שיחות וידאו
-	
-	גוגל האנגאוטס
-	https://hangouts.google.com/
-	
-	זום
-	https://zoom.us/
-	
-	גוגל מיט
-	https://meet.google.com/
-	
-	ספייק
-	https://video.spike.chat/
-	
-	טאקי
-	https://talky.io/ 
-	
-	AppRTC
-	https://appr.tc/
+%% shopping and sales
 
-%% שליחת קבצים גדולים
+Zap price comparison
+http://www.zap.co.il/
 
-	ג'מבו מייל
-	https://www.jumbomail.me/he/
+Ebay
+https://www.ebay.com/
 
-	העברת קבצים גדולים
-	https://send.magicode.me/
-	
-	דרופבוקס
-	https://www.dropbox.com/
-	
-	filemail
-	https://www.filemail.com/
-	
-	WeTransfer
-	https://wetransfer.com/
+Amazon
+http://www.amazon.com/
 
-%% שפות ותרגומים
+Next
+http://il.nextdirect.com/iw/
 
-	תרגום גוגל
-	https://translate.google.com/
+Ali Express - English
+http://www.aliexpress.com/
 
-	תרגום בינג
-	https://www.bing.com/translator/
+Ali Express - Hebrew
+http://he.aliexpress.com/
 
-%% תורני
+Favorites - ultra-Orthodox sales sites
+https://moadafim.co.il/
 
-	היברו בוקס
-	http://www.hebrewbooks.org/
+%% video calls
 
-	קול הלשון
-	http://www.kolhalashon.com/
-	http://www.kolhalashon.com/FavIcon.ico
+Google Hangouts
+https://hangouts.google.com/
 
-	תורת אמת
-	http://www.toratemetfreeware.com/
+Zoom
+https://zoom.us/
 
-	פורום לתורה
-	http://www.tora-forum.co.il/
-	http://www.tora-forum.co.il/ext/tatiana5/favicon/favicon.ico
+Google Meat
+https://meet.google.com/
 
-	אוצר החכמה
-	http://www.otzar.org/
+Spike
+https://video.spike.chat/
 
-	נדברו - בימ"ד וירטואלי ליראי הק ולחושבי שמו
-	https://www.nidberu.org/
+Taki
+https://talky.io/
 
-	שיתופתא
-	https://shitufta.org.il/
-	https://shitufta.org.il/logo.svg
+AppRTC
+https://appr.tc/
 
-	מרכבה
-	https://www.themercava.com/app/
+%% Sending large files
 
-	תהילים
-	http://www.tehilim.org.il/
+jumbo mail
+https://www.jumbomail.me/he/
 
-	עלונים - גליונות פרשת השבוע
-	http://ladaat.web-star.co.il/gilyonot.aspx
+Transfer large files
+https://send.magicode.me/
 
-	עלונים - גליונות
-	https://yiddishevinkel.com/gilyones
+Dropbox
+https://www.dropbox.com/
 
-	שטייגען
-	http://www.yadmeir.co.il/?CategoryID=647
+filemail
+https://www.filemail.com/
 
-	ויקיטקסט:ארון הספרים היהודי
-	https://he.wikisource.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90%D7%A8%D7%95%D7%9F_%D7%94%D7%A1%D7%A4%D7%A8%D7%99%D7%9D_%D7%94%D7%99%D7%94%D7%95%D7%93%D7%99
+WeTransfer
+https://wetransfer.com/
 
-	אוצר הספרים היהודי השיתופי
-	https://wiki.jewishbooks.org.il/mediawiki/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99
+%% languages and translations
 
-	מורשת מרן
-	http://moreshet-maran.com/
+Google translation
+https://translate.google.com/
 
-	קו ההלכה הספרדי
-	https://kavhalacha.co.il/index.php
+Bing translation
+https://www.bing.com/translator/
 
-%% תמונות
+%% on duty
 
-	ABSFreePic.com
-	http://absfreepic.com/
+Hebrew Box
+http://www.hebrewbooks.org/
 
-	PEXELS
-	https://www.pexels.com/
+the sound of the tongue
+http://www.kolhalashon.com/
+http://www.kolhalashon.com/FavIcon.ico
 
-	pixabay
-	https://pixabay.com/
+true theory
+http://www.toratemetfreeware.com/
 
-	StockSnap.io
-	https://stocksnap.io/
+Torah forum
+http://www.tora-forum.co.il/
+http://www.tora-forum.co.il/ext/tatiana5/favicon/favicon.ico
 
-	ImageSource
-	http://www.imagesource.com/
+The treasure of wisdom
+http://www.otzar.org/
 
-	123RF
-	https://www.123rf.com/
+Let's talk - in a virtual forum for Irai Hek and the thinkers of his name
+https://www.nidberu.org/
 
-	אדובי סטוק
-	https://stock.adobe.com/
+He will be surprised
+https://shitufta.org.il/
+https://shitufta.org.il/logo.svg
 
-	שאטרסטוק
-	https://www.shutterstock.com/
+buggy
+https://www.themercava.com/app/
 
-	ביגסטוק (מבית שאטרסטוק)
-	https://www.bigstockphoto.com/
+Psalms
+http://www.tehilim.org.il/
 
-	iStock
-	http://www.istockphoto.com/
+Bulletins - issues of the weekly parshah
+http://ladaat.web-star.co.il/gilyonot.aspx
 
-	Pikwizard
-	https://pikwizard.com
-	
-%% תחבורה
+Leaflets - sheets
+https://yiddishevinkel.com/gilyones
 
-	מודיעין ארצי
-	http://www.bus.co.il
-	
-	מוביט (moovit)
-	https://moovitapp.com/
+Steigen
+http://www.yadmeir.co.il/?CategoryID=647
 
-	אגד
-	https://www.egged.co.il/
+Wikitext:The Jewish Bookcase
+https://he.wikisource.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%98%D7%A7%D7%A1%D7%98:%D7%90% D7%A8%D7%95%D7%9F_%D7%94%D7%A1%D7%A4%D7%A8%D7%99%D7%9D_%D7%94%D7%99%D7%94%D7% 95%D7%93%D7%99
 
-	דן
-	https://www.dan.co.il/
+The Cooperative Jewish Library
+https://wiki.jewishbooks.org.il/mediawiki/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99
 
-	רכבת ישראל
-	https://www.rail.co.il/
+Meran's legacy
+http://moreshet-maran.com/
 
-	קווים עילית
-	https://www.kavim-t.com/
+The Spanish line of halacha
+https://kavhalacha.co.il/index.php
 
-	סופרבוס
-	http://www.superbus.co.il/
-	https://bus.gov.il/Content/images/BusOperators/company_13.png
+%% Photos
 
-	מטרופולין
-	https://www.metropoline.com/
+ABSFreePic.com
+http://absfreepic.com/
 
-	נתיב אקספרס
-	http://www.nateevexpress.com/
+PEXELS
+https://www.pexels.com/
 
-	אפיקים
-	https://www.afikim-t.co.il/
+pixabay
+https://pixabay.com/
 
-	רב קו אונליין
-	https://ravkavonline.co.il/he/
+StockSnap.io
+https://stocksnap.io/
 
-	איפה בוס
-	http://www.efobus.com/
-	
-	גלים - שירותי תחבורה ציבורית
-	https://www.galeem.co.il/
+ImageSource
+http://www.imagesource.com/
 
-	לו"ז משרד התחבורה
-	https://bus.gov.il/
-	
-	כביש 6
-	https://www.kvish6.co.il/
+123RF
+https://www.123rf.com/
 
-%% תחזית מזג אויר
+Adobe Stock
+https://stock.adobe.com/
 
-	השירות המטאורולוגי
-	https://ims.gov.il/he/Forecasts
+Shutterstock
+https://www.shutterstock.com/
 
-	חזי דיין
-	http://israelweather.co.il/forecast/index.html
+Bigstock (from Shutterstock)
+https://www.bigstockphoto.com/
 
-	ירושמיים
-	http://www.02ws.co.il/
+iStock
+http://www.istockphoto.com/
 
-%% תקשורת
+Pikwizard
+https://pikwizard.com
 
-	בזק
-	https://www.bezeq.co.il/
+%% transportation
 
-	הוט
-	https://www.hot.net.il//heb/internetandtelephone/
+National intelligence
+http://www.bus.co.il
 
-	פרטנר
-	https://www.partner.co.il/
+moovit
+https://moovitapp.com/
 
-	פלאפון
-	https://www.pelephone.co.il/
+bundle
+https://www.egged.co.il/
 
-	סלקום
-	https://www.cellcom.co.il/
+Dan
+https://www.dan.co.il/
 
-	הוט מובייל
-	https://www.hotmobile.co.il/
-	
-	גולן טלקום
-        https://www.golantelecom.co.il/
-	
-	רמי לוי תקשורת
-	https://mobile.rami-levy.co.il/
+Israel Railways
+https://www.rail.co.il/
 
-	019
-	https://019mobile.co.il/
+Elite lines
+https://www.kavim-t.com/
 
-	בדיקת מהירות גלישה
-	https://www.bezeq.co.il/internetandphone/internet/speedtest/
+super boss
+http://www.superbus.co.il/
+https://bus.gov.il/Content/images/BusOperators/company_13.png
 
-	פרי פקס
-	https://www.freefax.co.il/
+metropolis
+https://www.metropoline.com/
 
-	מי פקס
-	https://www.myfax.co.il/
+Express lane
+http://www.nateevexpress.com/
+
+avenues
+https://www.afikim-t.co.il/
+
+Rav Ko online
+https://ravkavonline.co.il/he/
+
+where is boss
+http://www.efobus.com/
+
+Galim - public transportation services
+https://www.galeem.co.il/
+
+Ministry of Transportation schedule
+https://bus.gov.il/
+
+Road 6
+https://www.kvish6.co.il/
+
+%% weather forecast
+
+National Weather Service
+https://ims.gov.il/he/Forecasts
+
+Hazi Dayan
+http://israelweather.co.il/forecast/index.html
+
+Jerusalemites
+http://www.02ws.co.il/
+
+%% Communication
+
+flash
+https://www.bezeq.co.il/
+
+Hot
+https://www.hot.net.il//heb/internetandtelephone/
+
+partner
+https://www.partner.co.il/
+
+cell phone
+https://www.pelephone.co.il/
+
+cellcom
+https://www.cellcom.co.il/
+
+Hot Mobile
+https://www.hotmobile.co.il/
+
+Golan telecom
+         https://www.golantelecom.co.il/
+
+Rami Levy Communications
+https://mobile.rami-levy.co.il/
+
+019
+https://019mobile.co.il/
+
+Browsing speed test
+https://www.bezeq.co.il/internetandphone/internet/speedtest/
+
+Perry Fax
+https://www.freefax.co.il/
+
+Who is Fax?
+https://www.myfax.co.il/
