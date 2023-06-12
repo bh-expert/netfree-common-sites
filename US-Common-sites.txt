@@ -7,96 +7,56 @@
 
 	Court Offices
 
+
 	Department of Transportation
 
 
 	Education Department
-	https://edu.gov.il/
+	
 
 	HFC
-	http://www.oref.org.il/
+	
 
 	Social Security
-	https://www.btl.gov.il/
-	https://www.btl.gov.il/SiteCollectionImages/favicon.ico
+	
+	
 
 	Ministry of Welfare
-	http://www.molsa.gov.il/
-	http://www.molsa.gov.il/_layouts/MisradHarevacha/Images/favicon.ico
+	
+	
 
 	Ministry of the Environment
-	http://www.sviva.gov.il/
-	http://www.sviva.gov.il/Style%20Library/Images/env/SvivaFavicon.ico
+
 
 	Ministry of Interior
-	http://www.moin.gov.il/
+	
 
 	Ministry of Construction and Housing
-	http://www.moch.gov.il/
-	http://www.moch.gov.il/_catalogs/masterpage/favicon.ico
 
 	Ministry of Defence
-	http://www.mod.gov.il/
+	
 
 	Ministry of Foreign Affairs
-	http://mfa.gov.il/
+	
 
 	Ministry of Immigration and Absorption
-	http://www.moia.gov.il/
+
 
 	Ministry of Economy and Industry
-	http://www.economy.gov.il/
-
+	
 	Israel Electric Corporation
-	http://www.iec.co.il/
-	https://www.iec.co.il/Style%20Library/Iec/Images/favicon.ico
+
+
 
 	Ministry of Health
-	http://www.health.gov.il/
+
 
 	Taxes Authority
-	https://taxes.gov.il/
+	https://www.irs.gov
 
 %% Banks
 
-	Union Bank
-	http://www.unionbank.co.il
-
-	Discount Bank
-	https://www.discountbank.co.il/
-
-	Postal bank
-	https://www.bankhadoar.co.il/
-
-	Bank Hapoalim
-	https://www.bankhapoalim.co.il/
-
-	Yahav bank
-	https://www.yahav.co.il/
-
-	Bank of Jerusalem
-	https://www.bankjerusalem.co.il/
-
-	National Bank
-	https://www.leumi.co.il/
-
-	Bank Mizrahi Tefahot
-	https://www.mizrahi-tefahot.co.il/
-	https://www.mizrahi-tefahot.co.il/Style%20Library/Mizrahi/Images/favicon.jpg
-
-	Bank Masad
-	https://online.bankmassad.co.il
-
-	Mercantile Bank
-	https://www.mercantile.co.il/
-	https://www.mercantile.co.il/MB/sites/mercantile.co.il/files/favicon_0.ico
-
-	Paggy bank
-	https://online.pagi.co.il/
-
-	the international Bank
-	https://online.fibi.co.il/wps/portal
-
+	
 %% hospitals
 
 	
@@ -123,6 +83,9 @@
 
 	EMS
 	http://www.ems.post/
+	
+	FEDEX
+	http://www.fedex.com/
 
 %% downloads
 
@@ -146,12 +109,6 @@
 	http://video-tov.ml/
 
 %% Judaism
-
-	The Wall cameras
-	http://kotel-cams.ml/
-
-	The Western Wall Heritage Foundation
-	http://www.thekotel.org/kotel/kotel_cameras/
 
 	Today's times in Halacha everywhere in the world
 	https://www.myzmanim.com/
@@ -227,7 +184,7 @@
 %% Associations
 
 	world builders
-	http://www.boneiolam.co.il/
+	http://www.boneiolam.com/
 
 	Ezer Machion
 	http://www.ami.org.il/
@@ -237,7 +194,7 @@
 	https://www.google.com/s2/favicons?domain=https://en.yad-sarah.net/
 
 	Aunet
-		http://out-net.net/
+	http://out-net.net/
 
 	%% Orthodox forums
 
