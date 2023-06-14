@@ -183,7 +183,7 @@
 
 %% Associations
 
-	world builders
+	Bonei Olam
 	http://www.boneiolam.com/
 
 	Ezer Machion
@@ -196,9 +196,9 @@
 	Aunet
 	http://out-net.net/
 
-	%% Orthodox forums
+%% Orthodox forums
 
-	Netfri forum
+	Netfree forum
 	http://forum.netfree.link/
 
 	Prog
@@ -218,28 +218,12 @@
 
 	Interns. Top
 	https://mitmachim.top/
+	
+%% health funds
 
-	%% health funds
 
-	Maccabi
-	http://www.maccabi4u.co.il
 
-	general
-	http://www.clalit.co.il/
-
-	united
-	https://www.meuhedet.co.il
-
-	National
-	http://www.leumit.co.il/
-
-	%% charity funds
-
-	City treasury
-	http://www.kupat.org.il/
-
-	and the rabbinical council
-	https://www.vaadharabanim.co.il/
+%% charity funds
 
 	Vows plus
 	https://www.matara.pro/nedarimplus/
@@ -264,13 +248,10 @@
 	Ali Express - English
 	http://www.aliexpress.com/
 
-	Ali Express - Hebrew
-	http://he.aliexpress.com/
-
 	Favorites - ultra-Orthodox sales sites
 	https://moadafim.co.il/
 
-	%% video calls
+%% video calls
 
 	Google Hangouts
 	https://hangouts.google.com/
@@ -278,7 +259,7 @@
 	Zoom
 	https://zoom.us/
 
-	Google Meat
+	Google Meet
 	https://meet.google.com/
 
 	Spike
@@ -307,7 +288,7 @@
 	WeTransfer
 	https://wetransfer.com/
 
-	%% languages and translations
+%% languages and translations
 
 	Google translation
 	https://translate.google.com/
